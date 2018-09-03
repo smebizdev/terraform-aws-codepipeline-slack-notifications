@@ -1,0 +1,14 @@
+{
+  "name": "terraform-aws-codepipeline-slack-notifications",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pack": "zip -r ../dist.zip ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
